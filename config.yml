@@ -1,0 +1,3 @@
+# Default giveaway length when a key is added from /giveaway admin.
+# Use s / m / h / d, e.g. 30s, 5m, 1h30m, 1d.  You can override it per use: /giveaway admin 10m
+default-duration: 5m
